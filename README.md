@@ -1,7 +1,7 @@
 # Typescript-Intro
 This is introduction to TypeScript "superset" to JavaScript.
 
-![Demo]()
+![Demo](https://github.com/KrystynaMil/Typescript-Intro/blob/main/src/components/screen.png)
 
 ## Inside 
 - Primitives:  number, string, boolean
